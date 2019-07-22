@@ -6,7 +6,7 @@ In this module you will take your newfound knowledge of `Context API` and refact
 
 Read these instructions carefully. Understand exactly what is expected _before_ starting this project.
 
-## Commits
+##   Commits
 
 Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
 
